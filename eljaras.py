@@ -1,0 +1,1 @@
+print('Tetszőleges szöveg', 'O')
